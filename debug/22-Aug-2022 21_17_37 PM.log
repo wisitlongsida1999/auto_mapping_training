@@ -1,0 +1,111 @@
+22/Aug/2022 09:17:38 PM - read_excel - 80 - INFO -                 PROCESS  JOBTYPE             OPN                                                 WI
+0               Receive       FA  00, 01, 02, 05  000_Process Flow Chart, 015_Module and Patch c...
+1                   NaN  Service          21, 43  000_Process Flow Chart, 015_Module and Patch c...
+2                   NaN     TEFR              81  000_Process Flow Chart, 015_Module and Patch c...
+3                   NaN      RMK             400  000_Process Flow Chart, 015_Module and Patch c...
+4   VMI/EndFaceinsction       FA          08, 10  000_Process Flow Chart, 015_Module and Patch c...
+5                   NaN  Service      31, 33, 38  000_Process Flow Chart, 015_Module and Patch c...
+6                   NaN     TEFR              83  000_Process Flow Chart, 015_Module and Patch c...
+7                   NaN      RMK             401  000_Process Flow Chart, 015_Module and Patch c...
+8   MeterialDisposition       FA      06, 11, 12  000_Process Flow Chart, 015_Module and Patch c...
+9                   NaN  Service          37, 73  000_Process Flow Chart, 015_Module and Patch c...
+10              Packing       FA         17, 220  000_Process Flow Chart, 015_Module and Patch c...
+11                  NaN  Service    45, 46A, 320  000_Process Flow Chart, 015_Module and Patch c...
+12                  NaN     TEFR     87, 88A, 91  000_Process Flow Chart, 015_Module and Patch c...
+13                  NaN      RMK        404, 412  000_Process Flow Chart, 015_Module and Patch c...
+14      Shipmentrequest       FA         04A, 09  000_Process Flow Chart, 015_Module and Patch c...
+15                  NaN  Service         26, 48A  000_Process Flow Chart, 015_Module and Patch c...
+16                  NaN     TEFR             90A  000_Process Flow Chart, 015_Module and Patch c...
+17                  NaN      RMK       405A, 415  000_Process Flow Chart, 015_Module and Patch c...
+18                Scrap       FA      221A, 222A  000_Process Flow Chart, 015_Module and Patch c...
+19                  NaN  Service      321A, 323A  000_Process Flow Chart, 015_Module and Patch c...
+20                  NaN     TEFR        92A, 93A  000_Process Flow Chart, 015_Module and Patch c...
+21                  NaN      RMK      413A, 414A  000_Process Flow Chart, 015_Module and Patch c...
+22/Aug/2022 09:17:38 PM - read_excel - 94 - INFO -  === MAPPING DICT ===
+22/Aug/2022 09:17:38 PM - read_excel - 95 - INFO - {'FA': {'00': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '005_ReceivingandStorage', 'VA12112002_C3Sub-InventoryTransfer'], '01': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '005_ReceivingandStorage', 'VA12112002_C3Sub-InventoryTransfer'], '02': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '005_ReceivingandStorage', 'VA12112002_C3Sub-InventoryTransfer'], '05': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '005_ReceivingandStorage', 'VA12112002_C3Sub-InventoryTransfer'], '08': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '004_VisualInsctionforCisco:FA,Service,andRemarketing', '009_QMSDATAEntryforVMIandDisposition\n', 'VA11112001_CosmeticInsction', 'VA12112003_BrandProtectionInsction', 'VA12112002_C3 Sub-Inventory Transfer'], '10': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '004_VisualInsctionforCisco:FA,Service,andRemarketing', '009_QMSDATAEntryforVMIandDisposition\n', 'VA11112001_CosmeticInsction', 'VA12112003_BrandProtectionInsction', 'VA12112002_C3 Sub-Inventory Transfer'], '06': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '009_QMSDATAEntryforVMIandDisposition', '012_QITDisposition', 'VA12112002_C3 Sub-Inventory Transfer'], '11': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '009_QMSDATAEntryforVMIandDisposition', '012_QITDisposition', 'VA12112002_C3 Sub-Inventory Transfer'], '12': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '009_QMSDATAEntryforVMIandDisposition', '012_QITDisposition', 'VA12112002_C3 Sub-Inventory Transfer'], '17': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '002_PackingInstruction'], '220': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '002_PackingInstruction'], '04A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '017_ShipmentRequest'], '09': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '017_ShipmentRequest'], '221A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '021_ScrapProcessforCisco:FA,Service,andRemarketing'], '222A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '021_ScrapProcessforCisco:FA,Service,andRemarketing']}, 'Service': {'21': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '005_ReceivingandStorage', 'VA12112002_C3Sub-InventoryTransfer', 'VA18112001_CiscoservicereceivingMacro'], '43': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '005_ReceivingandStorage', 'VA12112002_C3Sub-InventoryTransfer', 'VA18112001_CiscoservicereceivingMacro'], '31': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '004_VisualInsctionforCisco:FA,Service,andRemarketing', 'VA11112001_CosmeticInsction', 'VA12112003_BrandProtectionInsction', 'VA12112002_C3 Sub-Inventory Transfer'], '33': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '004_VisualInsctionforCisco:FA,Service,andRemarketing', 'VA11112001_CosmeticInsction', 'VA12112003_BrandProtectionInsction', 'VA12112002_C3 Sub-Inventory Transfer'], '38': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '004_VisualInsctionforCisco:FA,Service,andRemarketing', 'VA11112001_CosmeticInsction', 'VA12112003_BrandProtectionInsction', 'VA12112002_C3 Sub-Inventory Transfer'], '37': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '009_QMSDATAEntryforVMIandDisposition', '012_QITDisposition', 'VA12112002_C3 Sub-Inventory Transfer'], '73': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '009_QMSDATAEntryforVMIandDisposition', '012_QITDisposition', 'VA12112002_C3 Sub-Inventory Transfer'], '45': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '002_PackingInstruction', '006_LabelPrintingprocessforCisco:Service,RemarketingandTEFR'], '46A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '002_PackingInstruction', '006_LabelPrintingprocessforCisco:Service,RemarketingandTEFR'], '320': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '002_PackingInstruction', '006_LabelPrintingprocessforCisco:Service,RemarketingandTEFR'], '26': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '017_ShipmentRequest', '018_Oracleinvoicepreparation\n', '019_C3invoicepreparation', '024_ServiceRequestShipment(NewCICEProcess)'], '48A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '017_ShipmentRequest', '018_Oracleinvoicepreparation\n', '019_C3invoicepreparation', '024_ServiceRequestShipment(NewCICEProcess)'], '321A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '021_ScrapProcessforCisco:FA,Service,andRemarketing'], '323A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '021_ScrapProcessforCisco:FA,Service,andRemarketing']}, 'TEFR': {'81': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '005_ReceivingandStorage', 'VA12112002_C3Sub-InventoryTransfer'], '83': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '004_VisualInsctionforCisco:FA,Service,andRemarketing', 'VA11112001_CosmeticInsction', 'VA12112003_BrandProtectionInsction', 'VA12112002_C3 Sub-Inventory Transfer'], '87': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '002_PackingInstruction', '006_LabelPrintingprocessforCisco:Service,RemarketingandTEFR'], '88A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '002_PackingInstruction', '006_LabelPrintingprocessforCisco:Service,RemarketingandTEFR'], '91': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '002_PackingInstruction', '006_LabelPrintingprocessforCisco:Service,RemarketingandTEFR'], '90A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '017_ShipmentRequest', '018_Oracleinvoicepreparation\n', '019_C3invoicepreparation'], '92A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '021_ScrapProcessforCisco:FA,Service,andRemarketing'], '93A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '021_ScrapProcessforCisco:FA,Service,andRemarketing']}, 'RMK': {'400': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '005_ReceivingandStorage'], '401': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '004_VisualInsctionforCisco:FA,Service,andRemarketing', 'VA11112001_CosmeticInsction', 'VA12112003_BrandProtectionInsction'], '404': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '002_PackingInstruction', '006_LabelPrintingprocessforCisco:Service,RemarketingandTEFR'], '412': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '002_PackingInstruction', '006_LabelPrintingprocessforCisco:Service,RemarketingandTEFR'], '405A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '017_ShipmentRequest', '018_Oracleinvoicepreparation'], '415': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '017_ShipmentRequest', '018_Oracleinvoicepreparation'], '413A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '021_ScrapProcessforCisco:FA,Service,andRemarketing'], '414A': ['000_Process Flow Chart', '015_Module and Patch cord Handling', 'VA13112009_FITS Data Entry', '021_ScrapProcessforCisco:FA,Service,andRemarketing']}}
+22/Aug/2022 09:17:46 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   00: Awaiting GOLF (FA) []
+22/Aug/2022 09:17:47 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:17:55 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   01: FA-REC (FA) []
+22/Aug/2022 09:17:55 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:18:03 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   02: Replacement []
+22/Aug/2022 09:18:03 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:18:10 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   04A: RTV Shipment (FA) []
+22/Aug/2022 09:18:11 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:18:18 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   05: NTF Receive []
+22/Aug/2022 09:18:18 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:18:25 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   06: FA MRB []
+22/Aug/2022 09:18:25 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:18:32 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   08: Prepare VMI (FA) []
+22/Aug/2022 09:18:32 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:18:39 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   09: Re-route []
+22/Aug/2022 09:18:39 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:18:45 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   10: Hold Brand Protection []
+22/Aug/2022 09:18:45 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:18:52 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   11: Hold QIT []
+22/Aug/2022 09:18:52 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:18:58 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   12: Prepare RTV []
+22/Aug/2022 09:18:58 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:04 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   21: DGI (DGI) []
+22/Aug/2022 09:19:04 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:09 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   220: Pack Scrap []
+22/Aug/2022 09:19:09 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:15 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   221A: Scrap pick up []
+22/Aug/2022 09:19:15 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:20 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   222A: Scrap [Lot] []
+22/Aug/2022 09:19:20 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:25 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   26A: Non-FG Shipment []
+22/Aug/2022 09:19:26 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:31 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   31: VMI1 (WIP) []
+22/Aug/2022 09:19:31 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:35 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   320: Pack Scrap (MRB) []
+22/Aug/2022 09:19:36 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:40 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   321A: Scrap pick up (lot) []
+22/Aug/2022 09:19:40 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:45 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   323A: Scrap (Lot) []
+22/Aug/2022 09:19:45 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:50 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   33: VMI2 (WIP) []
+22/Aug/2022 09:19:51 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:19:56 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   37: Pass Test FA (WIP-2) []
+22/Aug/2022 09:19:57 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:00 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   38: VMI3 (WIP-2) []
+22/Aug/2022 09:20:02 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:07 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   400: Receive []
+22/Aug/2022 09:20:07 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:10 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   401: VMI []
+22/Aug/2022 09:20:10 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:14 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   405A: Ship FG [Lot] []
+22/Aug/2022 09:20:14 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:17 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   413A: Scrap pick up []
+22/Aug/2022 09:20:17 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:20 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   414A: Scrap [Lot] []
+22/Aug/2022 09:20:20 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:23 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   415: Ship Other []
+22/Aug/2022 09:20:23 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:26 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   43: Disable PID (DGI) []
+22/Aug/2022 09:20:26 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:29 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   45: Group Packing Lot (FGI) []
+22/Aug/2022 09:20:29 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:31 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   46A: Packing [LotNo] (Service) []
+22/Aug/2022 09:20:31 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:34 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   48A: Shipment [LotNo] (Service) []
+22/Aug/2022 09:20:34 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:36 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   73: FA Disable (ENG-HOLD) []
+22/Aug/2022 09:20:36 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:38 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   81: DGI (TEFR) []
+22/Aug/2022 09:20:38 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:40 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   83: VMI (TEFR) []
+22/Aug/2022 09:20:40 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:42 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   88A: Packing (TEFR) []
+22/Aug/2022 09:20:42 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:43 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   90A: FGI Shipment (TEFR) []
+22/Aug/2022 09:20:44 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:45 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   91: Pack Scrap (TEFR) []
+22/Aug/2022 09:20:45 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:46 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   92A: Scrap pick up (Lot) []
+22/Aug/2022 09:20:46 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:48 PM - delete_all_mapping - 191 - INFO - DELETE OPN >>>   93A: Scrap (Lot) []
+22/Aug/2022 09:20:48 PM - delete_all_mapping - 201 - DEBUG - alert accepted
+22/Aug/2022 09:20:59 PM - delete_all_mapping - 207 - DEBUG - no alert
+22/Aug/2022 09:20:59 PM - <module> - 234 - ERROR - {'NOT FOUND OPN': [], 'NOT FOUND WI': []}
+22/Aug/2022 09:20:59 PM - <module> - 236 - CRITICAL - Traceback Error: NoneType: None
+

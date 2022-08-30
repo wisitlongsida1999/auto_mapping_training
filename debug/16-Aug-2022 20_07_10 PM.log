@@ -1,0 +1,5 @@
+16/Aug/2022 08:07:10 PM - <module> - 86 - CRITICAL - Traceback Error: Traceback (most recent call last):
+  File "c:\Users\wisitl\Documents\PY\auto_mapping_training\main.py", line 81, in <module>
+    test.read_excel()
+TypeError: read_excel() missing 1 required positional argument: 'file_path'
+

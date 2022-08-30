@@ -1,0 +1,9 @@
+22/Aug/2022 04:55:34 PM - <module> - 137 - CRITICAL - Traceback Error: Traceback (most recent call last):
+  File "c:\Users\wisitl\Documents\PY\auto_mapping_training\main.py", line 132, in <module>
+    test.main()
+  File "c:\Users\wisitl\Documents\PY\auto_mapping_training\main.py", line 123, in main
+    self.add_mapping()
+  File "c:\Users\wisitl\Documents\PY\auto_mapping_training\main.py", line 104, in add_mapping
+    for org in self.map_dict:
+AttributeError: 'MAPPING' object has no attribute 'map_dict'
+

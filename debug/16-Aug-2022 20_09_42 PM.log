@@ -1,0 +1,41 @@
+16/Aug/2022 08:09:43 PM - read_excel - 64 - INFO -                   PROCESS JOBTYPE  ...                                         Unnamed: 7                                         Unnamed: 8
+0                 Receive      FA  ...  'PE021_ScrapProcessforCisco:FA,Service,andRema...  'PE021_ScrapProcessforCisco:FA,Service,andRema...
+1                     NaN      SV  ...                                                NaN                           00','01','02','03','05',
+2                     NaN    TEFR  ...                                                NaN                                                NaN
+3                     NaN     RMK  ...                                                NaN                                                NaN
+4   VMI/EndFaceinspection      FA  ...                                                NaN                                     '413A','414A',
+5                     NaN      SV  ...                                                NaN                                              '22',
+6                     NaN    TEFR  ...                                                NaN                                                NaN
+7                     NaN     RMK  ...                                                NaN                                                NaN
+8                     SVT      FA  ...                                                NaN                                                NaN
+9                     NaN      SV  ...                                                NaN                                                NaN
+10                    NaN    TEFR  ...                                                NaN                                                NaN
+11                    NaN     RMK  ...                                                NaN                                                NaN
+12         Functionaltest      FA  ...                                                NaN                                                NaN
+13                    NaN      SV  ...                                                NaN                                                NaN
+14                    NaN    TEFR  ...                                                NaN                                                NaN
+15                    NaN     RMK  ...                                                NaN                                                NaN
+16    MeterialDisposition      FA  ...                                                NaN                                                NaN
+17                    NaN      SV  ...                                                NaN                                                NaN
+18                    NaN    TEFR  ...                                                NaN                                                NaN
+19                    NaN     RMK  ...                                                NaN                                                NaN
+20                Packing      FA  ...                                                NaN                                                NaN
+21                    NaN      SV  ...                                                NaN                                                NaN
+22                    NaN    TEFR  ...                                                NaN                                                NaN
+23                    NaN     RMK  ...                                                NaN                                                NaN
+24        Shipmentrequest      FA  ...                                                NaN                                                NaN
+25                    NaN      SV  ...                                                NaN                                                NaN
+26                    NaN    TEFR  ...                                                NaN                                                NaN
+27                    NaN     RMK  ...                                                NaN                                                NaN
+28                  Scrap      FA  ...                                                NaN                                                NaN
+29                    NaN      SV  ...                                                NaN                                                NaN
+30                    NaN    TEFR  ...                                                NaN                                                NaN
+31                    NaN     RMK  ...                                                NaN                                                NaN
+32                     QC      FA  ...                                                NaN                                                NaN
+33                    NaN      SV  ...                                                NaN                                                NaN
+34                    NaN    TEFR  ...                                                NaN                                                NaN
+35                    NaN     RMK  ...                                                NaN                                                NaN
+
+[36 rows x 9 columns]
+16/Aug/2022 08:09:43 PM - <module> - 86 - CRITICAL - Traceback Error: NoneType: None
+
